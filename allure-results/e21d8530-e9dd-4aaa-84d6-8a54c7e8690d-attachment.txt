@@ -1,0 +1,31 @@
+===================POST CALL ==============
+{
+  id: 8390741,
+  name: 'PW Test User',
+  email: 'pwtest1772383687080@mail.com',
+  gender: 'female',
+  status: 'active'
+}
+Created User ID: 8390741
+User is created successfully...
+===================GET CALL ==============
+{
+  id: 8390741,
+  name: 'PW Test User',
+  email: 'pwtest1772383687080@mail.com',
+  gender: 'female',
+  status: 'active'
+}
+===================UPDATE CALL ==============
+{
+  name: 'PW Test Automation User',
+  status: 'inactive',
+  id: 8390741,
+  email: 'pwtest1772383687080@mail.com',
+  gender: 'female'
+}
+User is updated successfully...
+===================DELETE CALL ==============
+User is deleted successfully...
+===================GET CALL ==============
+{ message: 'Resource not found' }
