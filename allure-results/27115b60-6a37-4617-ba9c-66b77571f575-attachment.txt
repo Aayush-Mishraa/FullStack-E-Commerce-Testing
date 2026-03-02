@@ -1,7 +1,0 @@
-{
-  id: 8390739,
-  name: 'PW Test User',
-  email: 'pwtest1772383687034@mail.com',
-  gender: 'female',
-  status: 'active'
-}
